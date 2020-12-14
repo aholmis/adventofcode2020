@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdventOfCode14a": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\inputs\\input14.txt"
+    }
+  }
+}
